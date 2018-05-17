@@ -3,3 +3,6 @@ Git must  is a   free software
 i like git hahahaha
 create a new branch is quick and  simple
 we are groot so what
+we are groot
+insert a sql
+are you ok
